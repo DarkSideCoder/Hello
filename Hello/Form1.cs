@@ -16,6 +16,7 @@ namespace Hello
         {
             InitializeComponent();
             MessageBox.Show("Alo");
+             
         }
     }
 }
