@@ -1,0 +1,8 @@
+c:\users\darkside\documents\visual studio 2015\Projects\Hello\Hello\bin\Debug\Hello.exe.config
+c:\users\darkside\documents\visual studio 2015\Projects\Hello\Hello\bin\Debug\Hello.exe
+c:\users\darkside\documents\visual studio 2015\Projects\Hello\Hello\bin\Debug\Hello.pdb
+c:\users\darkside\documents\visual studio 2015\Projects\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+c:\users\darkside\documents\visual studio 2015\Projects\Hello\Hello\obj\Debug\Hello.Properties.Resources.resources
+c:\users\darkside\documents\visual studio 2015\Projects\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.Cache
+c:\users\darkside\documents\visual studio 2015\Projects\Hello\Hello\obj\Debug\Hello.exe
+c:\users\darkside\documents\visual studio 2015\Projects\Hello\Hello\obj\Debug\Hello.pdb
